@@ -1,0 +1,10 @@
+D:\C#\projects\management system\Contact_Management\bin\Debug\Contact_Management.exe.config
+D:\C#\projects\management system\Contact_Management\bin\Debug\Contact_Management.exe
+D:\C#\projects\management system\Contact_Management\bin\Debug\Contact_Management.pdb
+D:\C#\projects\management system\Contact_Management\obj\Debug\Contact_Management.csproj.AssemblyReference.cache
+D:\C#\projects\management system\Contact_Management\obj\Debug\Contact_Management.Form1.resources
+D:\C#\projects\management system\Contact_Management\obj\Debug\Contact_Management.Properties.Resources.resources
+D:\C#\projects\management system\Contact_Management\obj\Debug\Contact_Management.csproj.GenerateResource.cache
+D:\C#\projects\management system\Contact_Management\obj\Debug\Contact_Management.csproj.CoreCompileInputs.cache
+D:\C#\projects\management system\Contact_Management\obj\Debug\Contact_Management.exe
+D:\C#\projects\management system\Contact_Management\obj\Debug\Contact_Management.pdb
